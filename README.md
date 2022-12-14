@@ -1,5 +1,5 @@
 # VShop
-
+VShop is a basic e-commerce  web application built using HTML, CSS, JSON, PHP, JavaScript.
 Application functionalities include:
   1. Login
   ![image](https://user-images.githubusercontent.com/91324495/181887682-38399d1a-d6cf-4f10-98ef-ab84025095a0.png)
@@ -29,5 +29,5 @@ The project currently doesn't include:
   The above mentioned features are possible improvements to the submission
   
 Future Developments:
-  1. Include animations that are effecient and swift
+  1. Include animations that are efficient and swift
   2. Make the UI/UX more user friendly and better looking
